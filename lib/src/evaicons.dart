@@ -7,7 +7,7 @@ class EvaIconData extends IconData {
       : super(
           code,
           fontFamily: 'EvaIcons',
-          fontPackage: 'icons_plus',
+          fontPackage: 'icons_plus_slim',
         );
 }
 

@@ -7,7 +7,7 @@ class FontAwesomeIconData extends IconData {
       : super(
           code,
           fontFamily: 'FontAwesome',
-          fontPackage: 'icons_plus',
+          fontPackage: 'icons_plus_slim',
         );
 }
 

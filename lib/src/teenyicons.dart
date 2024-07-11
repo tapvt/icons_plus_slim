@@ -7,7 +7,7 @@ class TeenyIconData extends IconData {
       : super(
           code,
           fontFamily: 'TeenyIcons',
-          fontPackage: 'icons_plus',
+          fontPackage: 'icons_plus_slim',
         );
 }
 
